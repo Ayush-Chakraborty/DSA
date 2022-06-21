@@ -3,7 +3,7 @@
 🚀 Longest Palindromic Subsequence 👉 [InterviewBit](https://www.interviewbit.com/problems/longest-palindromic-subsequence/)<details><summary>Approach</summary>
 $lps(A,B)=lcs(A, reverse(A))$
 </details> 
-<br/>
+
 
 🚀 Edit Distance 👉 [InterviewBit](https://www.interviewbit.com/problems/edit-distance/)<details><summary>Approach</summary>
 1. If $A[i] = B[j], distance(A[0...i],B[0...j])=distance(A[0...i-1],B[0...j-1])$
